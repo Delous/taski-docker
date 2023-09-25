@@ -1,5 +1,6 @@
-from http import HTTPStatus
+from http import HTTPStatu
 from api import models
+
 from django.test import Client, TestCase
 
 
